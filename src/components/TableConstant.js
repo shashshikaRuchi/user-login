@@ -1,0 +1,42 @@
+export const tableArray = [
+  {
+    name: "John Doe",
+    email: "john@example.com",
+    role: "Admin",
+    type: "Full-time",
+    status: "Active",
+    id: 1,
+  },
+  // {
+  //   name: "shashshika",
+  //   email: "john@example.com",
+  //   role: "Admin",
+  //   type: "Full-time",
+  //   status: "Active",
+  //   id: 2,
+  // },
+  // {
+  //   name: "John Doe3",
+  //   email: "john@example.com",
+  //   role: "Admin",
+  //   type: "Full-time",
+  //   status: "Active",
+  //   id: 3,
+  // },
+  // {
+  //   name: "John Doe4",
+  //   email: "john@example.com",
+  //   role: "Admin",
+  //   type: "Full-time",
+  //   status: "Active",
+  //   id: 4,
+  // },
+  {
+    name: "John Doe4",
+    email: "john@example.com",
+    role: "Admin",
+    type: "Full-time",
+    status: "Active",
+    id: 5,
+  },
+];
